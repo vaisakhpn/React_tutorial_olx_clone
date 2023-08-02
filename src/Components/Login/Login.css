@@ -30,9 +30,12 @@
     border: 2px solid #002f34;
   }
   
-  .loginParentDiv a {
+  .a:link {
     display: flex;
     justify-content: center;
     cursor: pointer;
+    text-decoration: none;
+    color: black;
   }
+
   
