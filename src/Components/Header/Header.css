@@ -1,3 +1,19 @@
+.btn{
+  border: none;
+  outline: none;
+  color: black;
+}
+.btnout{
+  color: #000;
+}
+.btnout:hover{
+  background-color: black;
+  color: white;
+}
+.btn:hover{
+  background-color: black;
+  color: white;
+}
 .headerParentDiv {
   padding: 10px;
   background-color: whitesmoke;
@@ -104,6 +120,7 @@
   text-overflow: ellipsis;
   font-weight: bolder;
   margin-right: 5px;
+  cursor: pointer;
 }
 
 .loginPage hr {
